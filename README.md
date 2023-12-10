@@ -61,8 +61,8 @@ and predict the best model to determine who is the next F1 World Championship wi
 ## Repository Structure
 
 - `archive (1).zip/`: Contains the raw datasets.
-- `portofolio/`: Result on portofolio.
-- `src/`: Python source code for the project.
+- `Speeding to Victory_ A Predictive Modeling Approach in Formula 1_Meida Rahma Al Kariim (1).pdf/`: Result on portofolio.
+- `Meida_Rahma_Al_Kariim_Progress_Script_Final_Project(1).ipynb/`: Python source code for the project.
 
 ## Acknowledgments
 
