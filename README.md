@@ -60,7 +60,7 @@ and predict the best model to determine who is the next F1 World Championship wi
 
 ## Repository Structure
 
-- `data/`: Contains the raw datasets.
+- `archive (1).zip/`: Contains the raw datasets.
 - `portofolio/`: Result on portofolio.
 - `src/`: Python source code for the project.
 
