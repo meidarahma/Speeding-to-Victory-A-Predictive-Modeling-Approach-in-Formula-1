@@ -11,7 +11,7 @@ since its inaugural season in 1950. The word "formula" in the name refers to the
 all participants' cars must conform. A Formula One season consists of a series of races, known as Grands Prix,
 which take place worldwide on purpose-built circuits and on public roads.
 
-I got this Dataset Bank Marketing Analysis from Kaggle (https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020/data)
+I got this dataset from Kaggle (https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020/data)
 This project aims to explore historical data from the Formula 1 World Championship (1950-2023), 
 provide business insight related to the data, provide business recommendations related to this matter, 
 and predict the best model to determine who is the next F1 World Championship winner.
